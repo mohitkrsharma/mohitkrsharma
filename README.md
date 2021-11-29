@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohitkrsharma
+- 👋 Hi, I’m @mohitkrsharma (Mohit Kumar Sharma)
 - 👀 I’m interested in ...Frontend Development
 - 🌱 I’m currently learning ...Frontend Frameworks and HTML CSS Bootstrap
 - 💞️ I’m looking to collaborate on ... Frontend Projects
