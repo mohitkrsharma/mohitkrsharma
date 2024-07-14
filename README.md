@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohitkrsharma (Mohit Kumar Sharma)
-- 👀 I’m interested in ...Frontend Development
-- 🌱 I’m currently learning ...Frontend Frameworks and HTML CSS Bootstrap
+- 👀 I’m ...Software Engineer
+- 🌱 I’m currently having 4+ years of experience ...in Angular development.
 - 💞️ I’m looking to collaborate on ... Frontend Projects
 - 📫 How to reach me ...mohits.sharma2@gmail.com
 
